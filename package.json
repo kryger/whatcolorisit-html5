@@ -1,13 +1,10 @@
 {
-  "name": "babel-starter-kit",
+  "name": "what-color-is-it",
   "version": "0.0.0",
-  "description": "A project template for authoring and publishing JavaScript libraries",
-  "homepage": "http://www.kriasoft.com/babel-starter-kit",
-  "repository": "kriasoft/babel-starter-kit",
-  "author": "Kriasoft <support@kriasoft.com> (http://www.kriasoft.com)",
-  "contributors": [
-    "Konstantin Tarkus <hello@tarkus.me>"
-  ],
+  "description": "Library for translating RGB colors into real world names",
+  "homepage": "https://github.com/kryger/whatcolorisit-js",
+  "repository": "whatcolorisit-js",
+  "author": "Lukasz Kryger <lukasz.kryger@gmail.com>",
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {},
